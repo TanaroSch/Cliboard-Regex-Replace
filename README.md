@@ -1,5 +1,8 @@
 # Clipboard Regex Replace
 
+> **Note:** A more performant version has been implemented in Go: [Clipboard-Regex-Replace-2](https://github.com/TanaroSch/Clipboard-Regex-Replace-2)
+
+
 Clipboard Regex Replace is a lightweight application that allows you to automatically apply regex-based replacements to your clipboard content using a customizable hotkey. The application is currently only tested on Windows, but might also work on Linux and Mac.
 
 This application can be used to obfuscate names, personal data or directories from content pasted to LLMs automatically.
